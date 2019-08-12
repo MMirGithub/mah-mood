@@ -27,6 +27,6 @@ git commit --amend --no-edit --date "`date --date=@{tx}`"
             
 
 os.system("""
-git remote add origin git@github.com:iamvee/mahmood.git
+git remote add origin git@github.com:MMirGithub/GIt_learning.git
 git push -u origin master
 """)    
